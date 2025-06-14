@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+streamlit
+torch
+opencv-python-headless
+mysql-connector-python
